@@ -74,7 +74,7 @@ p{margin:8px 0}
 ul,ol{padding-left:22px;margin:8px 0}
 li{margin:3px 0}
 .tbl{overflow-x:auto;margin:12px 0}
-table{border-collapse:collapse;width:100%;font-size:15px;min-width:520px}
+table{border-collapse:collapse;width:100%;font-size:15px}
 th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
 th{background:var(--pcs);color:var(--ink)}
 .formula{font-family:ui-monospace,Menlo,Consolas,monospace;background:var(--card);border:1px dashed var(--line);
@@ -142,4 +142,5 @@ footer{color:var(--muted);font-size:13px;text-align:center;margin-top:40px}
   body{font-size:16px} h1{font-size:24px}
   .parts button{font-size:13px;padding:8px 4px}
   .qtext{font-size:17.5px}
+  table{font-size:13.5px} th,td{padding:6px 7px}
 }
